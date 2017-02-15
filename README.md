@@ -19,6 +19,8 @@ Name | Description | Default
 `BACKUP_TIME` | Hour of the day at which the backup will be executed | `2:00`
 `DATE_FORMAT` | Date format string used as the suffix of the backup filename | `%Y%m%d-%H%M%S`
 `FILE_PREFIX` | Prefix of the backup filename | `backup-`
+`MONGO_PASSWORD` | mongo db username
+`MONGO_USER` | mongo db password 
 
 ## Example
 
